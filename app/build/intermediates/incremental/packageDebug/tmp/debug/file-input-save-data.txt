@@ -1,0 +1,31 @@
+#Internal package file, do not edit.
+#Tue Jul 10 03:54:02 IST 2018
+2.base=E\:\\blind keyboard design\\VKBTool_studio-accessible_pabba-20180705T171845Z-001\\VKBTool_studio-accessible_pabba\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\29
+5.set=DEX
+0.path=classes.dex
+2.baseType=DIRECTORY
+3.base=E\:\\blind keyboard design\\VKBTool_studio-accessible_pabba-20180705T171845Z-001\\VKBTool_studio-accessible_pabba\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\31
+2.set=DEX
+1.path=fonts/NotoSansDevanagari-Regular.ttf
+4.base=E\:\\blind keyboard design\\VKBTool_studio-accessible_pabba-20180705T171845Z-001\\VKBTool_studio-accessible_pabba\\app\\build\\intermediates\\assets\\debug
+count=7
+5.baseType=DIRECTORY
+2.path=classes.dex
+5.base=E\:\\blind keyboard design\\VKBTool_studio-accessible_pabba-20180705T171845Z-001\\VKBTool_studio-accessible_pabba\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\30
+4.set=ASSET
+3.path=classes.dex
+6.base=E\:\\blind keyboard design\\VKBTool_studio-accessible_pabba-20180705T171845Z-001\\VKBTool_studio-accessible_pabba\\app\\build\\intermediates\\assets\\debug
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=fonts/NotoSerif-Regular.ttf
+6.set=ASSET
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=classes.dex
+0.base=E\:\\blind keyboard design\\VKBTool_studio-accessible_pabba-20180705T171845Z-001\\VKBTool_studio-accessible_pabba\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\28
+0.baseType=DIRECTORY
+3.set=DEX
+6.path=fonts/NotoSans-Regular.ttf
+1.base=E\:\\blind keyboard design\\VKBTool_studio-accessible_pabba-20180705T171845Z-001\\VKBTool_studio-accessible_pabba\\app\\build\\intermediates\\assets\\debug
+4.baseType=DIRECTORY
+0.set=DEX

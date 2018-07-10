@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Sat Jul 07 08:53:34 IST 2018
+1.base=E\:\\blind keyboard design\\VKBTool_studio-accessible_pabba-20180705T171845Z-001\\VKBTool_studio-accessible_pabba\\app\\build\\intermediates\\assets\\debug
+2.path=fonts/NotoSans-Regular.ttf
+0.baseType=DIRECTORY
+2.base=E\:\\blind keyboard design\\VKBTool_studio-accessible_pabba-20180705T171845Z-001\\VKBTool_studio-accessible_pabba\\app\\build\\intermediates\\assets\\debug
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=fonts/NotoSansDevanagari-Regular.ttf
+0.set=ASSET
+0.base=E\:\\blind keyboard design\\VKBTool_studio-accessible_pabba-20180705T171845Z-001\\VKBTool_studio-accessible_pabba\\app\\build\\intermediates\\assets\\debug
+2.baseType=DIRECTORY
+1.path=fonts/NotoSerif-Regular.ttf

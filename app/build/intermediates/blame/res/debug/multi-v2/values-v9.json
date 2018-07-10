@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\blind keyboard design\\VKBTool_studio-accessible_pabba-20180705T171845Z-001\\VKBTool_studio-accessible_pabba\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v9\\values-v9.xml",
+            "map": [
+                {
+                    "source": "E:\\blind keyboard design\\VKBTool_studio-accessible_pabba-20180705T171845Z-001\\VKBTool_studio-accessible_pabba\\app\\src\\main\\res\\values-v9\\themes_apptheme.xml",
+                    "from": {
+                        "startLines": "5",
+                        "startColumns": "2",
+                        "startOffsets": "169",
+                        "endLines": "11",
+                        "endColumns": "10",
+                        "endOffsets": "519"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "8",
+                        "endColumns": "10",
+                        "endOffsets": "405"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+#Tue Jul 10 09:00:24 IST 2018
+base.0=E\:\\blind keyboard design\\VKBTool_studio-accessible_pabba-20180705T171845Z-001\\VKBTool_studio-accessible_pabba\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\23
+path.0=classes.dex
+renamed.0=classes.dex

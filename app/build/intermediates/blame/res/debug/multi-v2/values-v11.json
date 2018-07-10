@@ -1,0 +1,85 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\blind keyboard design\\VKBTool_studio-accessible_pabba-20180705T171845Z-001\\VKBTool_studio-accessible_pabba\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "E:\\blind keyboard design\\VKBTool_studio-accessible_pabba-20180705T171845Z-001\\VKBTool_studio-accessible_pabba\\app\\src\\main\\res\\values-v11\\themes_apptheme.xml",
+                    "from": {
+                        "startLines": "5,7",
+                        "startColumns": "2,2",
+                        "startOffsets": "169,223",
+                        "endLines": "5,38",
+                        "endColumns": "52,10",
+                        "endOffsets": "219,1698"
+                    },
+                    "to": {
+                        "startLines": "5,189",
+                        "startColumns": "4,4",
+                        "startOffsets": "189,13536",
+                        "endLines": "5,220",
+                        "endColumns": "54,10",
+                        "endOffsets": "239,15011"
+                    }
+                },
+                {
+                    "source": "E:\\blind keyboard design\\VKBTool_studio-accessible_pabba-20180705T171845Z-001\\VKBTool_studio-accessible_pabba\\app\\src\\main\\res\\values-v11\\styles_apptheme.xml",
+                    "from": {
+                        "startLines": "5,10,14,23,28,18,33",
+                        "startColumns": "2,2,2,2,2,2,2",
+                        "startOffsets": "169,462,632,1089,1378,812,1670",
+                        "endLines": "8,12,16,26,31,21,35",
+                        "endColumns": "10,10,10,10,10,10,10",
+                        "endOffsets": "458,628,808,1374,1666,1085,1845"
+                    },
+                    "to": {
+                        "startLines": "6,62,65,174,178,182,186",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "244,4342,4513,12495,12785,13078,13356",
+                        "endLines": "9,64,67,177,181,185,188",
+                        "endColumns": "10,10,10,10,10,10,10",
+                        "endOffsets": "533,4508,4689,12780,13073,13351,13531"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Nimish Maravi KD\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\59d29c715231cee8731f5d7d3f4b28f3\\res\\values-v11\\values-v11.xml",
+                    "from": {
+                        "startLines": "4,10,16,22,28,34,42,43,44,49,56,58,62,63,64,115,169",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "297,716,1141,1569,1995,2422,3084,3173,3274,3682,4339,4446,4812,4883,4966,8674,12759",
+                        "endLines": "9,15,21,27,33,39,42,43,48,53,57,59,62,63,114,166,169",
+                        "endColumns": "12,12,12,12,12,12,88,100,12,12,12,12,70,82,12,12,90",
+                        "endOffsets": "711,1136,1564,1990,2417,2842,3168,3269,3677,4097,4441,4570,4878,4961,8669,12517,12845"
+                    },
+                    "to": {
+                        "startLines": "10,16,22,28,34,40,46,47,48,53,58,60,68,69,70,121,173",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "538,957,1382,1810,2236,2663,3088,3177,3278,3686,4106,4213,4694,4765,4848,8556,12404",
+                        "endLines": "15,21,27,33,39,45,46,47,52,57,59,61,68,69,120,172,173",
+                        "endColumns": "12,12,12,12,12,12,88,100,12,12,12,12,70,82,12,12,90",
+                        "endOffsets": "952,1377,1805,2231,2658,3083,3172,3273,3681,4101,4208,4337,4760,4843,8551,12399,12490"
+                    }
+                },
+                {
+                    "source": "E:\\blind keyboard design\\VKBTool_studio-accessible_pabba-20180705T171845Z-001\\VKBTool_studio-accessible_pabba\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "177",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "306"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "184"
+                    }
+                }
+            ]
+        }
+    ]
+}
